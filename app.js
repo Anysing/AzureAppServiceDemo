@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hello from Azure App Service — Ankit Singh Gusain');
+  res.send('Ankit Singh Gusain');
 
 });
 
